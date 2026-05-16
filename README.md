@@ -21,4 +21,4 @@ This project performs data cleaning and visualization on the Titanic dataset usi
 Titanic Dataset
 
 ## Author
-Your Name
+Sanika Kurulekar
